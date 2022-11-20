@@ -13,3 +13,7 @@ to a Salutation
 
 # Static Display of HTML 
 HTML files were created and added for the static display of the Web App
+
+# Adding JS and Css
+Added JS and CSS to make the website dynamic.
+It now resembles a social media app with posts, profiles, action buttons and images, settings and features
