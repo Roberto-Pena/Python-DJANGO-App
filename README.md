@@ -1,5 +1,5 @@
 # Python-DJANGO-App
-A Social Media Platform Coded in Python using the Django Framework
+This project is a Social Media Platform called Social Book Coded in Python, JS, CSS, HTML using the Django Framework
 
 # Initial Commit Content
 A Django Project was Created
